@@ -31,5 +31,5 @@ python app.py [-V|--version] [-h|--help] [-p|--printzones] [-u|--url remote-ip-l
 ```
 Example:
 ```
-python app.py -u 'http://bot.sudoer.net/best.cf.iran' -z elora234.ir
+python app.py -u 'http://bot.sudoer.net/best.cf.iran' -z YOURDOMAIN.COM
 ```
