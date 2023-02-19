@@ -29,3 +29,7 @@ KEY='YOURE_CLOUD_FLARE_API_KEY'
 ```
 python app.py [-V|--version] [-h|--help] [-p|--printzones] [-u|--url remote-ip-list-url] [-z|--zonename CloudFlare-zone-name]
 ```
+Example:
+```
+python app.py -u 'http://bot.sudoer.net/best.cf.iran' -z elora234.ir
+```
