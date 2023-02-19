@@ -16,7 +16,7 @@ prsmain.YOURDOMAIN.COM.	60	IN	A	45.131.208.227 ; PRS Main
 hwbmain.YOURDOMAIN.COM.	60	IN	A	104.254.140.11 ; HWB Main
 ```
 ## Install
-pip install -r .\requirements.txt
+‍‍`pip install -r .\requirements.txt`
 
 Carear `.env` file like bellow:
 
